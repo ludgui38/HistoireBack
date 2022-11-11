@@ -8,6 +8,6 @@ public class HistoireApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(HistoireApplication.class, args);
-		System.out.println("JE TE BAISE TA TRES TRES TRES LONGUE GRAND-MERE");
+		System.out.println("JE TE BAISE TA LONGUE GRAND-MERE DE PUTE");
 	}
 }
